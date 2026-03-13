@@ -189,6 +189,7 @@ new Chart(attendanceCtx, {
 });
 const skillCtx = document.getElementById("skillChartdev");
 
+
 new Chart(skillCtx, {
     type: "line",
     data: {
@@ -251,6 +252,8 @@ new Chart(skillCtx, {
         },
     },
 });
+
+
 
 
 

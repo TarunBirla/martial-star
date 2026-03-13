@@ -7,7 +7,8 @@
 
 <title>@yield('title','Martial Arts')</title>
 <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
-<!-- Tailwind CSS CDN -->
+
+
 <script src="https://cdn.tailwindcss.com"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
