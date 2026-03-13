@@ -73,7 +73,7 @@
         color: #fff;
     }
 
-    /* @media(max-width:768px) {
+     @media(max-width:768px) {
         #mainMenu {
             width: 100%;
             left: 0;
@@ -106,7 +106,7 @@
             display: none;
         }
 
-    } */
+    } 
 </style>
 <script>
 
